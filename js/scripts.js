@@ -24,9 +24,10 @@ window.onload = function() {
   var messages = [
    'Hello anh bạn 👋',
    'Tôi là Khang hay còn gọi là Bommie',
-   'Là một thằng ất ơ nào đấy thích chơi game, nấu ăn và gặp gỡ bạn bè',
+   'Là một thằng ất ơ nào đấy thích chơi game,nấu ăn và gặp gỡ bạn bè',
    'Gọi cho tôi khi nào bạn thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/phamkhangbm/">đây</a>, hoặc thằng <a href="https://www.facebook.com/nguyen.khag.3990/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
    '<a target="_blank" href="https://discord.st/l4d2vn">Discord</a><br><a target="_blank" href="https://open.spotify.com/user/nmvlhweqe2o65pyucv2eytb31">Spotify</a><br><a target="_blank" href="https://steamcommunity.com/id/KhangBommie/">Steam ID</a><br><a target="_blank" href="https://www.youtube.com/channel/UCDfCOrEtaNnmFneDdYSD_Aw">Youtube</a><br><a target="_blank" href="https://f3.cool/phamkhang?hl=vi&stid=mlseVWw&theme=K5Udv&fbclid=IwAR2ReYg_vhucHIYFvkk89L1rgr9obJZ3FfrA7I0awfdCS-znrYAQD_P_040">Hỏi tôi nếu bạn muốn</a>',getCurrentTime(),
+   'Code được viết bởi <a href="https://www.facebook.com/phamkhangbm/">Phạm Gia Khang</a>'
   ]
 
   var getFontSize = function() {
