@@ -17,6 +17,7 @@ var messages = [
     'Là một thằng ất ở nào đấy thích chơi game, xem phim và nghe nhạc',
     'Gọi cho tôi khi nào bạn thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/phamkhangbm/">đây</a>, hoặc thằng <a href="https://www.facebook.com/me/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
     '<a target="_blank" href="https://twitter.com/AlanSenpaiVN">Twitter</a><br><a target="_blank" href="https://www.facebook.com/AlanSenpaiVN/">Facebook</a><br><a target="_blank" href="https://soundcloud.com/kekhongu">Soundcloud</a><br><a target="_blank" href="https://alansenpai.carrd.co/">Carrd</a><br><a target="_blank" href="https://alansenpai1909.github.io/test">Cái này tôi vẫn đang test</a>',getCurrentTime(),
+    'Code được viết bởi <a href="https://github.com/juliangarnier/juliangarnier.com">Julian Garnier</a>, Thank you so much.'
 ]
 
 
