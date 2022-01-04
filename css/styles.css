@@ -74,7 +74,6 @@ body {
   display: inline-block;
   color: rgba(0,0,0,.5);
 }
-
 @import compass
 
 
@@ -94,15 +93,14 @@ html
   height: 100%
   background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%)
   overflow: hidden
-}
-  stars
+    
+#stars
   width: 1px
   height: 1px
   background: transparent
   box-shadow: $shadows-small
   animation			: animStar 50s linear infinite
-
-}
+    
   &:after
     content: " "
     position: absolute
@@ -111,16 +109,15 @@ html
     height: 1px
     background: transparent
     box-shadow: $shadows-small
-}
-stars2
+    
+#stars2
   width: 2px
   height: 2px
   background: transparent
   box-shadow: $shadows-medium
   animation			: animStar 100s linear infinite
-
-}
-:after
+    
+  &:after
     content: " "
     position: absolute
     top: 2000px
@@ -128,16 +125,15 @@ stars2
     height: 2px
     background: transparent
     box-shadow: $shadows-medium
-}  
-stars3
+    
+#stars3
   width: 3px
   height: 3px
   background: transparent
   box-shadow: $shadows-big
   animation			: animStar 150s linear infinite
-
-}
-&:after
+    
+  &:after
     content: " "
     position: absolute
     top: 2000px
@@ -145,8 +141,8 @@ stars3
     height: 3px
     background: transparent
     box-shadow: $shadows-big
-}
-title
+
+#title
   position: absolute
   top: 50%
   left: 0
@@ -172,4 +168,5 @@ title
     transform: translateY(0px)
   to		
     transform: translateY(-2000px)
+    
     
