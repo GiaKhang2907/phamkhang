@@ -22,11 +22,11 @@ window.onload = function() {
   }
 
   var messages = [
-   'Hello anh bạn 👋',
-   'Tôi là Khang hay còn gọi là Bommie',
-   'Là một thằng ất ơ nào đấy thích chơi game, nấu ăn và gặp gỡ bạn bè',
-   'Gọi cho tôi khi nào bạn thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/phamkhangbm/">đây</a>, hoặc thằng <a href="https://www.facebook.com/nguyen.khag.3990/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
-   '<a target="_blank" href="https://discord.st/l4d2vn">Server Discord</a><br><a target="_blank" href="https://www.facebook.com/phamkhangbm/">Facebook</a><br><a target="_blank" href="https://open.spotify.com/user/nmvlhweqe2o65pyucv2eytb31">Spotify</a><br><a target="_blank" href="https://steamcommunity.com/id/KhangBommie/">Steam</a><br>
+    'Hello anh bạn 👋',
+    'Tôi là Khang hay còn gọi là Bommie',
+    'Là một thằng ất ơ nào đấy thích chơi game, nấu ăn và gặp gỡ bạn bè',
+    'Gọi cho tôi khi nào bạn thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/phamkhangbm/">đây</a>, hoặc thằng <a href="https://www.facebook.com/nguyen.khag.3990/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
+    '<a target="_blank" href="https://discord.st/l4d2vn">Server Discord</a><br><a target="_blank" href="https://www.facebook.com/phamkhangbm/">Facebook</a><br><a target="_blank" href="https://open.spotify.com/user/nmvlhweqe2o65pyucv2eytb31">Spotify</a><br><a target="_blank" href="https://steamcommunity.com/id/KhangBommie/">Steam</a><br>
   ]
 
   var getFontSize = function() {
