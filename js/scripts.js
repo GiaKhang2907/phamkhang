@@ -12,14 +12,12 @@ var getCurrentTime = function() {
   if (current >= 22 || current < 5) return 'Have a good night! 🌝';
 }
 var messages = [
-  'Hey there 👋',
-  'I\'m Julian',
-  'I design and code things on the web',
-  'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr;">hello@julian.gr</a>',
-  'Or<br><a target="_blank" href="#">twitter.com/juliangarnier</a><br><a target="_blank" href="#">codepen.io/juliangarnier</a><br><a target="_blank" href="#">github.com/juliangarnier</a>',
-  getCurrentTime(),
-  'J.'
-];
+    'Hello anh bạn 👋',
+    'Tôi là Khang hay còn gọi là Bommie',
+    'Là một thằng ất ở nào đấy thích chơi game, xem phim và nghe nhạc',
+    'Gọi cho tôi khi nào bạn thấy cần.<br> Hoặc có thể tìm đến tôi ở <a href="https://www.facebook.com/phamkhangbm/">đây</a>, hoặc thằng <a href="https://www.facebook.com/me/">nô lệ của tôi</a>.<br>Hoặc mấy cái link trông thú vị này đây',
+    '<a target="_blank" href="https://twitter.com/AlanSenpaiVN">Twitter</a><br><a target="_blank" href="https://www.facebook.com/AlanSenpaiVN/">Facebook</a><br><a target="_blank" href="https://soundcloud.com/kekhongu">Soundcloud</a><br><a target="_blank" href="https://alansenpai.carrd.co/">Carrd</a><br><a target="_blank" href="https://alansenpai1909.github.io/test">Cái này tôi vẫn đang test</a>',getCurrentTime(),
+]
 
 
 var getFontSize = function() {
